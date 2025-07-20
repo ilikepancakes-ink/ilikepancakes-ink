@@ -27,3 +27,34 @@ welcome to my corner of Github!
 
 ---
 okie bye bye >_<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+my button :>
+       [![ilikepancakes.ink](https://ilikepancakes.ink/buttons/button1.png)](https://ilikepancakes.ink)
