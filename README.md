@@ -1,5 +1,4 @@
 # Hai!
-welcome to my Github!
 ---
 # About Me
 - pronouns they/them, she/her
