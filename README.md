@@ -1,10 +1,10 @@
 # Hai!
-welcome to my corner of Github!
+welcome to my Github!
 ---
 # About Me
 - pronouns they/them, she/her
 - i am a: software developer
-- im non-binary :3
+- im trans :3
 ---
 # my stats
 ![ilikepancakes-ink's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilikepancakes-ink&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
@@ -22,7 +22,7 @@ welcome to my corner of Github!
 [twitter](https://x.com/Ilikepancakesin)
 
 ---
-# Wanna vist my little corner on the internet to?
+# for more info heres my website 
 [my website >.<](https://ilikepancakes.ink)
 
 ---
