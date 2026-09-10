@@ -16,7 +16,7 @@
 [email](mailto:whatsgoodiegang@ilikepancakes.ink)
 [discord](https://discord.com/users/1141746562922459136)
 ---
-### for more info heres my website 
+
 
 
 ---
